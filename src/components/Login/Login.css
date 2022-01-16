@@ -1,0 +1,32 @@
+.loginContainer{
+    background-color: rgb(233, 144, 144);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+
+.form{
+    margin-top: 150px;
+}
+
+.inputFiled{
+    width: 350px;
+}
+
+.button{
+    display: flex;
+}
+
+.icons{
+    display: flex;
+    position: absolute;
+    margin: -33px 320px -29px;
+}
+
+.iconHide{
+    position: absolute;
+
+}
+.iconHide{
+    position: absolute;
+}
